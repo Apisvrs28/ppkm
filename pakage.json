@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "delay": "^5.0.0",
+    "node-random-name": "^1.0.1",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "random-pick-name": "^1.0.3",
+    "random-useragent": "^0.5.0",
+    "readline-sync": "^1.4.10",
+    "request-promise-native": "^1.0.9",
+    "string": "^3.3.3"
+  }
+}
